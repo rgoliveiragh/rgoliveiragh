@@ -16,4 +16,4 @@
   <img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-![Snake animation](https://github.com/renanloureiroo/renanloureiroo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rgoliveiragh/rgoliveiragh/blob/output/github-contribution-grid-snake.svg)
