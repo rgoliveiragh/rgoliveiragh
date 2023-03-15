@@ -1,6 +1,5 @@
 # 💫 About Me:
-Sigo me especializando em desenvolvimento de aplicações móveis utilizando o framework React Native, com ênfase em experiência do usuário, performance e valor de mercado. Possuo experiência no desenvolvimento de aplicações web de médio e grande porte, utilizando linguagens/frameworks como: PHP, Laravel, C#, ASP .Net, JavaScript, React, Node, Next, integrando com APIs e bancos de dados relacionais e NoSQL. Em consonância com os princípios SOLID, Design Patterns e Clean Code, alinhado com as documentações e boas práticas da comunidade. Sou uma pessoa comunicativa, dedicada e responsável, gosto de trabalhar em equipe, contribuir com ideias e aprender com os desafios.
-
+Sigo me especializando em desenvolvimento de aplicações móveis utilizando o framework React Native, com ênfase em experiência do usuário, performance e valor de mercado. Possuo experiência no desenvolvimento de aplicações web de médio e grande porte, utilizando linguagens/frameworks como: JavaScript, React, Node, Next, PHP, Laravel, C#, ASP .Net, integrando com APIs e bancos de dados relacionais e NoSQL. Em consonância com os princípios SOLID, Design Patterns e Clean Code, alinhado com as documentações e boas práticas da comunidade. Sou uma pessoa comunicativa, dedicada e responsável, gosto de trabalhar em equipe, contribuir com ideias e aprender com os desafios.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rgoliveirain) 
