@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently, I'm specializing in mobile application development, using the React Native framework, with an emphasis on user experience, performance and market value. I have experience in developing medium and large web applications, using technologies such as PHP, Laravel, C#, ASP .Net, JavaScript, React, Next, Node, in addition to working with APIs and relational and NoSQL databases. Always guided by the SOLID, Design Patterns and Clean Code principles, aligned with the best practices and documentation of the development community.
+Sigo me especializando em desenvolvimento de aplicações móveis utilizando o framework React Native, com ênfase em experiência do usuário, performance e valor de mercado. Possuo experiência no desenvolvimento de aplicações web de médio e grande porte, utilizando tecnologias como PHP, Laravel, C#, ASP .Net, JavaScript, React, Next, Node, além de trabalhar com APIs e bancos de dados relacionais e NoSQL. Em consonância com os princípios SOLID, Design Patterns e Clean Code, alinhado com as documentações e boas práticas da comunidade. Sou uma pessoa comunicativa, dedicada e responsável, gosto de trabalhar em equipe, contribuir com ideias e aprender com os desafios.
 
 
 ## 🌐 Socials:
