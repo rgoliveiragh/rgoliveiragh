@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sigo me especializando em desenvolvimento de aplicações móveis utilizando o framework React Native, com ênfase em experiência do usuário, performance e valor de mercado. Possuo experiência no desenvolvimento de aplicações web de médio e grande porte, utilizando linguagens/frameworks como: JavaScript, React, Node, Next, PHP, Laravel, C#, ASP .Net, integrando com APIs e bancos de dados relacionais e NoSQL. Em consonância com os princípios SOLID, Design Patterns e Clean Code, alinhado com as documentações e boas práticas da comunidade. Sou uma pessoa comunicativa, dedicada e responsável, gosto de trabalhar em equipe, contribuir com ideias e aprender com os desafios.
+Olá! Sou um desenvolvedor frontend especializado em React Native e Next.js. Tenho paixão por criar interfaces de usuário incríveis e estou sempre atualizado com as melhores práticas do setor. Estou ansioso para contribuir com projetos desafiadores e impulsionar a qualidade das experiências de usuário.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rgoliveirain) 
