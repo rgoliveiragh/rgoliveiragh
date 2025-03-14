@@ -7,6 +7,15 @@ Além da expertise técnica, valorizo a cultura ágil e o trabalho em equipe, ac
 
 Se você gosta de trocar ideias sobre tecnologia, boas práticas de desenvolvimento ou tendências do mercado, vamos conectar! 🚀
 
+
+💡 Curious by nature, persistent by vocation, and passionate about technology.
+
+I work as a Senior Software Engineer, with experience in TypeScript, React Native, and React, always striving to create scalable and high-performance solutions. My development approach is guided by Clean Architecture, Domain-Driven Design (DDD), and Test-Driven Development (TDD), ensuring clean, modular, and testable code.
+
+Beyond technical expertise, I value agile culture and teamwork, believing that great solutions come from collaboration and knowledge sharing. I have a strong interest in artificial intelligence and design patterns, always exploring new ways to innovate and optimize.
+
+If you enjoy discussing technology, best development practices, or market trends, let’s connect! 🚀
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rgoliveirain) 
 
