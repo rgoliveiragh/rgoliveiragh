@@ -1,5 +1,11 @@
 # 💫 About Me:
-Olá! Sou um desenvolvedor frontend especializado em React Native e Next.js. Tenho paixão por criar interfaces de usuário incríveis e estou sempre atualizado com as melhores práticas do setor. Estou ansioso para contribuir com projetos desafiadores e impulsionar a qualidade das experiências de usuário.
+💡 Curioso por natureza, persistente por vocação e apaixonado por tecnologia.
+
+Atuo como Engenheiro de Software Sênior, com experiência em TypeScript, React Native e React, sempre buscando criar soluções escaláveis e de alto desempenho. Minha abordagem de desenvolvimento é guiada por Clean Architecture, Domain Driven Design (DDD) e Test Driven Development (TDD), garantindo código limpo, modular e testável.
+
+Além da expertise técnica, valorizo a cultura ágil e o trabalho em equipe, acreditando que boas soluções surgem da colaboração e troca de conhecimento. Tenho um grande interesse por inteligência artificial e padrões de projeto, sempre explorando novas formas de inovação e otimização.
+
+Se você gosta de trocar ideias sobre tecnologia, boas práticas de desenvolvimento ou tendências do mercado, vamos conectar! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rgoliveirain) 
